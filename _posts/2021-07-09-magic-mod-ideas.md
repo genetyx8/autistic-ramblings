@@ -2,7 +2,7 @@
 layout: post
 title: "Ideas for a magic mod/system"
 date: 2021-07-09 12:41:00 -0000
-categories: [Minecraft, Modding]
+tags: [Minecraft, Modding]
 ---
 
 # Design Ideas for a magic mod based on formal languages
