@@ -2,7 +2,7 @@
 layout: post
 title: "What makes a magic mod?"
 date: 2021-07-09 11:32:00 -0000
-categories: Minecraft Modding
+categories: [Minecraft, Modding]
 ---
 # What makes a magic mod?
 
